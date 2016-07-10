@@ -7,6 +7,8 @@ OpenUnityJpDoc.crx ファイルをChromeの拡張機能画面にドラッグ・�
 ## 使い方
 Chromeの右上にアイコンが追加されます。
 
+![alt tag](https://github.com/narudesign-sekig/ChromeExt-OpenUnityJpDoc/tree/master/OpenUnityJpDoc/icon.png)
+
 英語の(ローカルの)ドキュメントが表示されている状態でアイコンをクリックしてください。
 対応する日本語ドキュメントが見つかれば表示されます。
 
