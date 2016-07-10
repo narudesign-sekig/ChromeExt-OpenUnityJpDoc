@@ -1,0 +1,20 @@
+﻿{
+	"name" : "Open Unity JP Doc",
+	"version" : "0.1",
+	"manifest_version" : 2,
+
+	"description" : "Unityから開いたローカルの英語ドキュメントと同内容のインターネット上の日本語ドキュメントを開く",
+	
+	"permissions" : [
+		"tabs"
+	],
+	
+	"background" : {
+		"scripts" : ["background.js"]
+	},
+	
+	"browser_action" : {
+		"default_icon" : "icon.png",
+		"default_title" : "Open Unity JP Doc"
+	}
+}
