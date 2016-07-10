@@ -1,0 +1,2 @@
+# ChromeExt-OpenUnityJpDoc
+現在開いている英語ドキュメントに対応する日本語ドキュメントを開く
